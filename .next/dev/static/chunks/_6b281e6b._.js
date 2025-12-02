@@ -48,9 +48,14 @@ const aboutData = {
 const resumeData = {
     education: [
         {
-            title: 'Frontend Development Bootcamp',
+            title: 'DAE in Software Engineering',
             period: '2024 — Present',
-            description: 'Intensive program covering modern JavaScript frameworks, responsive design, and UX principles.'
+            description: 'Pursuing a Diploma of Associate Engineer in Software Engineering with focus on modern development practices at Memon Industrial & Technical Institute (MITI).'
+        },
+        {
+            title: 'Modern Web & App Development',
+            period: 'April 2025 — Present',
+            description: 'Comprehensive training in frontend web development at Saylani Mass IT Training (SMIT).'
         }
     ],
     experience: [
@@ -163,6 +168,42 @@ const portfolioData = {
             ],
             liveUrl: 'https://khurramanis1.github.io/signup-login-toggle-form-using-js/',
             githubUrl: 'https://github.com/khurramanis1/signup-login-toggle-form-using-js'
+        },
+        {
+            title: 'Foodie Restaurant',
+            category: 'web design',
+            image: '/Foodie.png',
+            description: 'A responsive restaurant website showcasing menu and services.',
+            tech: [
+                'HTML',
+                'CSS'
+            ],
+            liveUrl: 'https://khurramanis1.github.io/foodie-restaurant/',
+            githubUrl: 'https://github.com/khurramanis1/foodie-restaurant'
+        },
+        {
+            title: 'Mental Health',
+            category: 'web design',
+            image: '/Mental-health.png',
+            description: 'Mental health awareness and support website.',
+            tech: [
+                'HTML',
+                'CSS'
+            ],
+            liveUrl: 'https://mental-health-ka.netlify.app/',
+            githubUrl: 'https://github.com/khurramanis1/Mental-health-repo'
+        },
+        {
+            title: 'Periodic Table',
+            category: 'web design',
+            image: '/Periodic-table.png',
+            description: 'An interactive periodic table showcasing elements and their properties.',
+            tech: [
+                'HTML',
+                'CSS'
+            ],
+            liveUrl: 'https://khurramanis1.github.io/periodic-table/',
+            githubUrl: 'https://github.com/khurramanis1/periodic-table'
         }
     ]
 };
