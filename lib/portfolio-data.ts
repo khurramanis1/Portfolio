@@ -77,6 +77,15 @@ export const portfolioData = {
       githubUrl: 'https://github.com/khurramanis1/WheelDeal',
     },
     {
+      title: 'WSCube Tech Clone',
+      category: 'web design',
+      image: './WSCube-tech-clone.png',
+      description: 'A clone of the WSCube Tech website showcasing their services and portfolio.',
+      tech: ['HTML', 'CSS', 'Bootstrap'],
+      liveUrl: 'https://wscube-tech-clone.vercel.app/',
+      githubUrl: 'https://github.com/khurramanis1/wscube-tech-clone',
+    },
+    {
       title: 'Restaurant Website',
       category: 'web design',
       image: '/KA-Rest.png',
